@@ -2,7 +2,7 @@
 
 Bu repo, basit Python uygulamalarını içermektedir. Şu anda iki farklı uygulama bulunmaktadır: QR Code oluşturucu ve Çevirici.
 
-## QR Code
+## 1-Python QR Code
 
 Bu uygulama, basit bir seviyede QR kodları oluşturmanızı sağlar. Kullanıcıdan aldığı metni QR koduna dönüştürür ve bu QR kodunu bir görüntü dosyası olarak kaydeder.
 
@@ -17,7 +17,7 @@ Bu uygulama, basit bir seviyede QR kodları oluşturmanızı sağlar. Kullanıc�
 - qrcode
 - Pillow
 
-# Python Translator
+# 2-Python Translator
 
 Bu repo, basit bir Python dil çevirici uygulamasını içermektedir. Bu uygulama, iki farklı dil arasında çeviri yapmanıza olanak tanır. Girilen metni seçilen dilden hedef dile çevirir ve çıktıları ekranda gösterir.
 
